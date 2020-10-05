@@ -13,3 +13,6 @@ Repository includes:
 1. Run setup.exe
 1. Specificy parameters
 1. cleanup insllation files
+
+## How Uninstall
+Simply delete c:\Temprep
